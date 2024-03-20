@@ -1,0 +1,1 @@
+1. Install ejs, mongoose, nodemon and express using npm install (name of the package);
